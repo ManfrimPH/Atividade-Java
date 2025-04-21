@@ -1,3 +1,5 @@
+> ⚠️ **AVISO IMPORTANTE**: Este projeto está sendo executado via terminal usando Maven (pom.xml) devido a problemas de compatibilidade com o IntelliJ IDEA, onde alguns arquivos do projeto estavam desaparecendo. Caso não consiga execultar o projeto via intellij, fale comigo em aula ou siga estritamente as instruções de execução via Maven conforme documentado abaixo.
+
 # Sistema de E-commerce - Registro de Vendas
 
 Este é um sistema de e-commerce simples em linha de comando que permite registrar vendas de produtos para usuários cadastrados.
